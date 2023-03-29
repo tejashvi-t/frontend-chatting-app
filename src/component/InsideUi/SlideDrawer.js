@@ -12,7 +12,7 @@ import ChatLoading from '../ChatLoading';
 import UserListItem from "../UsersAvatars/UserListItem";
 import { getSender } from '../../Config/chatLogic';
  import {Effect}  from 'react-notification-badge'
-import NotificationBadge from 'react-notification-badge/lib/components/NotificationBadge';
+import NotificationBadge from 'react-notification-badge';
 
 
 
